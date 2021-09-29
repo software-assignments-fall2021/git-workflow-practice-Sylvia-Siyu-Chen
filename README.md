@@ -1,6 +1,6 @@
 # the Article
 This article is written by _JOEL SPOLSKY_, 
-who is currently a software engineer in New York City. 
+who is currently a software engineer in New York City. （**Updated**:He is not just any software developer, but **the founder of the companies behind Stack Overflow and Trello** )
 This article is about the encoding and decoding of **Unicode** and **Character Sets**; it covers almost everything regarding processing code and char 
 and is put in a pretty understandable and hilarious way. 
 
