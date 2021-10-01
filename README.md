@@ -12,4 +12,8 @@ It firstly discussed from a historical perspective how human languages, rather a
 
 Have fun reading :)
 
+Comment by Daniel James Cucuzza:
+
+I just wanted to share a funny story with my experience reading this article. Coincidentally, my boss for my internship last semester sent this to me thinking it would be a funny article to inform the importance of using the right character set. Basically, the software they were developing used regular ASCII strings as it was built with C/C++. Something that seemed so convenient was secretly going to screw them over. This came to light when a company outside of the United States bought the source code for the software in question. That meant that they had to painstakingly find all ASCII strings and wrap them around a QT macro called tr(...) to convert all c-strings into QStrings. Imagine having to do this to a codebase that is over twenty years old! 
+
 
